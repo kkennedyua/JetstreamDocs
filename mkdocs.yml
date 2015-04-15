@@ -1,0 +1,6 @@
+site_name: JetStream Documentation
+
+pages:
+- ['index.md', 'Introduction']
+- ['using-images/UsingImagesLaunchingInstances.md', 'Using Instances and Images', 'Using and Launching']
+- ['using-images/LaunchNewInstance.md', 'Using Instances and Images', 'Launching New']
