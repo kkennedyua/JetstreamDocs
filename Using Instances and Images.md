@@ -1,4 +1,5 @@
-# Using Instances and Images
+Using Instances and Images
+==========================
 
 <div class="wysiwyg-macro"><div class="wysiwyg-macro-tag wysiwyg-macro-starttag">{include:docs:_AtmoRelease_AtmoBetaUI}</div></div>
 
@@ -6,7 +7,8 @@ This page contains:
 
 <div class="wysiwyg-macro"><div class="wysiwyg-macro-tag wysiwyg-macro-starttag">{toc:minLevel=2}</div></div>
 
-## About viewing and managing your Atmosphere instances
+About viewing and managing your Atmosphere instances
+----------------------------------------------------
 
 You can view the list of resources —[images](https://pods.iplantcollaborative.org/wiki/display/atmman/Using+Instances "Using Instances") and[volumes](https://pods.iplantcollaborative.org/wiki/display/atmman/Using+Volumes+%28Atmo-Beta%29 "Using Volumes (Atmo-Beta)")— in a project. From that list, you can then view details about each instance and take action on them, such as suspending and resuming, stopping and starting, and deleting an instance.
 
@@ -16,7 +18,8 @@ After an instance is active, you can view information about it, including the IP
 
 You can[attach and detach one or more volumes](https://pods.iplantcollaborative.org/wiki/display/atmman/Viewing+and+Managing+Volumes+%28Atmo-Beta%29 "Viewing and Managing Volumes (Atmo-Beta)")in the same project to the same instance, and view metrics about how your resources (memory, disk space, CPU, and AU usage) are being used on this instance.
 
-## Open the Project Resources window
+Open the Project Resources window
+---------------------------------
 
 1.  If necessary,[log in to Atmosphere](https://pods.iplantcollaborative.org/wiki/display/atmman/Logging+In+to+and+Signing+Out+of+Atmosphere+%28Atmo-Beta%29 "Logging In to and Signing Out of Atmosphere (Atmo-Beta)").
 2.  Click**Projects** at the top and then click the project with the instance to view.
@@ -32,7 +35,8 @@ You can[attach and detach one or more volumes](https://pods.iplantcollaborative.
     *   **Based on:** *mage upon which this instance was based.
     *   **Provider:**[Provider](https://pods.iplantcollaborative.org/wiki/display/atmman/Using+Providers+%28Atmo-Beta%29 "Using Providers (Atmo-Beta)") selected for the instance.
 
-## Performing actions on an instance
+Performing actions on an instance
+---------------------------------
 
 ### Suspending, resuming, stopping, and deleting an instance
 
