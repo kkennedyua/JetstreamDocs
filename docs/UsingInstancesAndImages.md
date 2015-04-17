@@ -8,11 +8,9 @@ You use an instance in Atmosphere just as you use a physical computer for most t
 
 You can view details about and manage your instances, including suspending and resuming, stopping and starting, and deleting an instance.
 
-You also can view and access your Atmosphere instances using [Web Shell or Remote Desktop](https://pods.iplantcollaborative.org/wiki/display/atmman/Logging+In+to+an+Instance+Through+the+Web+Shell+or+Via+Remote+Desktop+%28Atmo-Beta%29 "Logging In to an Instance Through the Web Shell or Via Remote Desktop (Atmo-Beta)").
+You also can view and access your Atmosphere instances using **Web Shell or Remote Desktop (NEED LINK)**.
 
 You can **attach and detach one or more volumes (NEED LINK)** in the same project to the same instance, and view metrics about how your resources (memory, disk space, CPU, and AU usage) are being used on this instance.
-
-
 
 # Managing your instances
 
