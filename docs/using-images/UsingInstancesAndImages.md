@@ -23,19 +23,18 @@ You can launch instances either from the Projects screen or from the Images scre
 1.  Click **Projects** on the top toolbar and then click to open the project from which you want to launch the instance.
     *   To create a new project, see Using Projects **NEED LINK**.
 2.  Click **New** and then click **Instance**.
-  1.  In the Select Image screen, either click in the search field at the top and enter the image name, tag (**NEED LINK**), description, or OS.
-  2.  Click the image to use.
+   1.  In the Select Image screen, click in the search field at the top and enter the image name, tag (**NEED LINK**), description, or OS.
+   2. Click the image to use.
 3.  In the Review Image window, click **Configure**.
 4.  In the Configure Image window:
-  1.  Enter the name for the instance.
-  2.  Select the version of the image to use.
-  3.  Select the **provider (NEED LINK) to use.
-  4.  Select the instance **size (NEED LINK)**.  
+   1. Enter the name for the instance.
+   2. Select the version of the image to use.
+   3. Select the **provider (NEED LINK) to use.
+   4. Select the instance **size (NEED LINK)**.  
         The size you may choose depends on the amount of resources that will be used by the image and your resource availability. Start with the smallest size until you know for certain what size you need for that image.
-    5.  Click **Launch Instance**.
-    The instance is added to the project's Instances list and you can view its status as it is being launched. Once the status is Active you may begin using it.
-    It may take up to 30 minutes for the instance to be accessible. Click![] **NEED IMAGE** to see if your instance status has changed to Active.  
-    You will receive an email with the instance ID and IP address once the instance is in active status.
+   5. Click **Launch Instance**.
+      The instance is added to the project's Instances list and you can view its status as it is being launched. Once the status is Active you may begin using it.
+      It may take up to 30 minutes for the instance to be accessible. Click![] **NEED IMAGE** to see if your instance status has changed to Active. You will receive an email with the instance ID and IP address once the instance is in active status.
 
 ### Launching from the Images screen
 
@@ -44,16 +43,13 @@ You can launch instances either from the Projects screen or from the Images scre
 3.  Click the image name to use.
 4.  In the image window, click **Launch**.
 5.  In the instance form:
-    1.  Enter the name for the instance.
-    2.  Select the version of the image to use.
-    3.  Select the provider **(NEED LINK**) to use.
-    4.  Select the instance size.  
-        The size you may choose depends on the amount of resources that will be used by the image and your resource availability.
-        Start with the smallest size until you know for certain what size you need for that image.
-    5.  Click **Launch Instance**. The instance is added to the project's Instances list and you can view its status as it is being launched. Once the status is Active you may begin using it.
-
-    It may take up to 30 minutes for the instance to be accessible. Click **REFRESH (NEED IMAGE)**  to see if your instance status has changed to Active.  
-    You will receive an email with the instance ID and IP address once the instance is in active status.
+   1. Enter the name for the instance.
+   2. Select the version of the image to use.
+   3. Select the provider **(NEED LINK**) to use.
+   4. Select the instance size.  
+      The size you may choose depends on the amount of resources that will be used by the image and your resource availability. Start with the smallest size until you know for certain what size you need for that image.
+   5. Click **Launch Instance**. The instance is added to the project's Instances list and you can view its status as it is being launched. Once the status is Active you may begin using it.
+      It may take up to 30 minutes for the instance to be accessible. Click **REFRESH (NEED IMAGE)**  to see if your instance status has changed to Active. You will receive an email with the instance ID and IP address once the instance is in active status.
 
 To request that your instance be made into an image to reuse and share, or to add code to the instance before it is imaged that executes a script that runs after the image is booted, see **Request an Image of Your Instance (NEED LINK)**.
 
@@ -81,11 +77,9 @@ You can create and manage your list of favorite images. Favorite images have a y
 
 1. To view your Favorites list, click **Images** and then click **Favorites**.
 2. To add a favorite:
-  1.  Find the image to add by scrolling through the list, or search for the image by entering the image name, tag, or description in the search field.
-  2.  Click ![] (https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIcon.gif?version=1&modificationDate=1406915420000) on the right side of the image.  
-    The image is added to your Favorites list with a yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000)
-3. To remove an image from your list, click the yellow star on the right side of the image in your Favorites list.
-
+   1. Find the image to add by scrolling through the list, or search for the image by entering the image name, tag, or description in the search field.
+   2. Click ![] (https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIcon.gif?version=1&modificationDate=1406915420000) on the right side of the image. The image is added to your Favorites list with a yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000)
+3. To **remove an image** from your list, click the yellow star on the right side of the image in your Favorites list.
 
 ## Viewing instance details
 
