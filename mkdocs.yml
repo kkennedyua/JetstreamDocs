@@ -5,3 +5,4 @@ pages:
 - ['using-images/UsingInstancesAndImages.md', 'Using Instances', 'Using Images and Launching Instances']
 - ['using-volumes/UsingVolumes.md', 'Using Volumes', 'Using Volumes in Instances']
 
+copyright: Copyright &copy; 2015
