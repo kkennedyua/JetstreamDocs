@@ -23,16 +23,16 @@ You can launch instances either from the Projects screen or from the Images scre
 1.  Click **Projects** on the top toolbar and then click to open the project from which you want to launch the instance.
     *   To create a new project, see Using Projects **NEED LINK**.
 2.  Click **New** and then click **Instance**.
-   1.  In the Select Image screen, click in the search field at the top and enter the image name, tag (**NEED LINK**), description, or OS.
+   a)  In the Select Image screen, click in the search field at the top and enter the image name, tag (**NEED LINK**), description, or OS.
    2. Click the image to use.
 3.  In the Review Image window, click **Configure**.
 4.  In the Configure Image window:
-   1. Enter the name for the instance.
-   2. Select the version of the image to use.
-   3. Select the **provider (NEED LINK) to use.
-   4. Select the instance **size (NEED LINK)**.  
+   a) Enter the name for the instance.
+   b) Select the version of the image to use.
+   c) Select the **provider (NEED LINK) to use.
+   d) Select the instance **size (NEED LINK)**.  
         The size you may choose depends on the amount of resources that will be used by the image and your resource availability. Start with the smallest size until you know for certain what size you need for that image.
-   5. Click **Launch Instance**.
+   e) Click **Launch Instance**.
       The instance is added to the project's Instances list and you can view its status as it is being launched. Once the status is Active you may begin using it.
       It may take up to 30 minutes for the instance to be accessible. Click![] **NEED IMAGE** to see if your instance status has changed to Active. You will receive an email with the instance ID and IP address once the instance is in active status.
 
@@ -43,12 +43,12 @@ You can launch instances either from the Projects screen or from the Images scre
 3.  Click the image name to use.
 4.  In the image window, click **Launch**.
 5.  In the instance form:
-   1. Enter the name for the instance.
-   2. Select the version of the image to use.
-   3. Select the provider **(NEED LINK**) to use.
-   4. Select the instance size.  
+   a) Enter the name for the instance.
+   b) Select the version of the image to use.
+   c) Select the provider **(NEED LINK**) to use.
+   d) Select the instance size.  
       The size you may choose depends on the amount of resources that will be used by the image and your resource availability. Start with the smallest size until you know for certain what size you need for that image.
-   5. Click **Launch Instance**. The instance is added to the project's Instances list and you can view its status as it is being launched. Once the status is Active you may begin using it.
+   e) Click **Launch Instance**. The instance is added to the project's Instances list and you can view its status as it is being launched. Once the status is Active you may begin using it.
       It may take up to 30 minutes for the instance to be accessible. Click **REFRESH (NEED IMAGE)**  to see if your instance status has changed to Active. You will receive an email with the instance ID and IP address once the instance is in active status.
 
 To request that your instance be made into an image to reuse and share, or to add code to the instance before it is imaged that executes a script that runs after the image is booted, see **Request an Image of Your Instance (NEED LINK)**.
@@ -77,8 +77,8 @@ You can create and manage your list of favorite images. Favorite images have a y
 
 1. To view your Favorites list, click **Images** and then click **Favorites**.
 2. To add a favorite:
-   1. Find the image to add by scrolling through the list, or search for the image by entering the image name, tag, or description in the search field.
-   2. Click ![] (https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIcon.gif?version=1&modificationDate=1406915420000) on the right side of the image. The image is added to your Favorites list with a yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000)
+   a) Find the image to add by scrolling through the list, or search for the image by entering the image name, tag, or description in the search field.
+   b) Click ![] (https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIcon.gif?version=1&modificationDate=1406915420000) on the right side of the image. The image is added to your Favorites list with a yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000)
 3. To **remove an image** from your list, click the yellow star on the right side of the image in your Favorites list.
 
 ## Viewing instance details
@@ -103,7 +103,7 @@ Each instance provides details, such as the CPU load, RAM, and used disk space.
 
 *   **My Resource Usage** at the top of the screen shows how much of your quota in CPUs and GB of memory is being used by your running instances. When selecting a new instance to launch, the resource usage reflects how much resources will be allocated according to the selected instance size. You can reuse your resources only after the instance has been terminated and is no longer displayed in the My Instances list. For more information on allocations, see [Allocation Policies](https://pods.iplantcollaborative.org/wiki/display/atmman/Allocation+Policies "Allocation Policies").
 
-*   **Instance Details** tab displays important information about the instance, including the ID assigned to the instance when it was launched, name of the image it is using, unique EMI ID, the instance size, the date you launched the image, and the IP address, which you will need when[logging in](https://pods.iplantcollaborative.org/wiki/display/atmman/Logging+In+to+an+Instance "Logging In to an Instance") to the instance.
+*   **Instance Details** tab displays important information about the instance, including the ID assigned to the instance when it was launched, name of the image it is using, unique EMI ID, the instance size, the date you launched the image, and the IP address, which you will need when [logging in](https://pods.iplantcollaborative.org/wiki/display/atmman/Logging+In+to+an+Instance "Logging In to an Instance") to the instance.
 
 *   **Instance Metrics** allows you to drill down into the usage expended for the running image, including percentage used for RAM and used disk space, and CPU load. Not all images provide instance metrics.
 
@@ -112,11 +112,11 @@ Each instance provides details, such as the CPU load, RAM, and used disk space.
 You can add tags to a running instance to help you find it more easily in search.
 
 1.  If necessary, open the running instance.
-2.  On the Instance Details tab, click the**Edit Tags** icon.
-3.  In the text field, enter the tag to add and click**Add**:  
+2.  On the Instance Details tab, click the **Edit Tags** icon.
+3.  In the text field, enter the tag to add and click **Add**:  
     ![](https://pods.iplantcollaborative.org/wiki/download/attachments/8411419/Tags-1.png?version=1&modificationDate=1369083148000)
 4.  Repeat for each additional instance tag to add.
-5.  When done, click**Done**.
+5.  When done, click **Done**.
 
 ## Have a problem?
 
