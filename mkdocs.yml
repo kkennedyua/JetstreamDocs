@@ -2,7 +2,7 @@ site_name: JetStream Documentation
 
 pages:
 - ['index.md', 'Home']
-- ['AboutAtmosphere.md', 'About Atmosphere']
+- ['AboutAtmosphere.md', 'About Jetstream']
 - ['using-images/UsingInstancesAndImages.md', 'Using Instances', 'Using Images and Launching Instances']
 - ['using-volumes/UsingVolumes.md', 'Using Volumes', 'Using Volumes in Instances']
 
