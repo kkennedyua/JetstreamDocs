@@ -1,5 +1,5 @@
 # Welcome to Jetstream Docs!
-
+----------------------------
 One can find very helpful documentation about Jetstream here.
 
 
