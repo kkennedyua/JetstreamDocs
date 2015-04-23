@@ -14,11 +14,11 @@ You can **attach and detach one or more volumes (NEED LINK)** in the same projec
 
 ___
 
-# Launching instances
+## Launching instances
 
 You can launch instances either from the Projects screen or from the Images screen.
 
-## Launching from the Projects screen
+### Launching from the Projects screen
 
 1.  Click **Projects** on the top toolbar and then click to open the project from which you want to launch the instance.
     To create a new project, see **Using Projects (NEED LINK)**.
@@ -43,7 +43,7 @@ You can launch instances either from the Projects screen or from the Images scre
       
 	**Note:** It may take up to 30 minutes for the instance to be accessible. Click **REFRESH (NEED IMAGE)** to see if your instance status has changed to Active. You will receive an email with the instance ID and IP address once the instance is in active status.
 
-## Launching from the Images screen
+### Launching from the Images screen
 
 1.  Click **Images** on the menu bar.
 2.  To search for an image, click in the search field at the top, and enter the image name, tag (displayed in green under the image name), description, or OS.
@@ -67,7 +67,7 @@ You can launch instances either from the Projects screen or from the Images scre
        
 To request that your instance be made into an image to reuse and share, or to add code to the instance before it is imaged that executes a script that runs after the image is booted, see **Request an Image of Your Instance (MOVE CONTENT TO THIS PAGE)**.
 
-# Suspending, resuming, stopping, and deleting instances
+## Suspending, resuming, stopping, and deleting instances
 
 You can suspend an active instance or resume a suspended instance, stop a suspended or active instance, or delete an active, suspended, or shutoff (deleted) instance.
 
@@ -77,7 +77,7 @@ You can suspend an active instance or resume a suspended instance, stop a suspen
     - **STOP ICON (NEED IMAGE):** Available when the instance is active or suspended.  
     - **SHUTOFF ICON (NEED IMAGE):** Available when the instance is active, suspended, or shutoff. Status will display as _shutoff_.
 
-# Renaming an instance
+## Renaming instances
 
 1.  Click the instance name to open the instance.
 2.  Hover over the name until a pencil icon is displayed to the right of the name:  
@@ -85,25 +85,25 @@ You can suspend an active instance or resume a suspended instance, stop a suspen
 3.  Click the pencil icon.
 4.  Edit the name and press **Return**.
 
-# Viewing, adding, and removing Favorite images
+## Viewing, adding, and removing Favorite images
 
 You can create and manage your list of favorite images. Favorite images have a yellow star on the right side of the image.
 
-## Viewing your Favorites list
+### Viewing your Favorites list
 
 To view your Favorites list, click **Images** and then click **Favorites**.
 
-## Adding a favorite instance to your list
+### Adding a favorite instance to your list
 
 1.  Find the image to add by scrolling through the list, or search for the image by entering the image name, tag, or description in the search field.
 2.  Click ![] (https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIcon.gif?version=1&modificationDate=1406915420000) to the right of the image. 
 The image is added to your Favorites list with a yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000)
 
-## Removing a favorite image from your list
+### Removing a favorite image from your list
 
 1. Click the yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000) to the right of the image.
 
-# Adding tags to running instances for improved searchability<a name="tag"></a>
+## Adding tags to running instances for improved searchability<a name="tag"></a>
 
 You can add tags to a running instance to help you find it more easily in search.
 
@@ -118,7 +118,7 @@ You can add tags to a running instance to help you find it more easily in search
 
 ___
 
-# Viewing instance details
+## Viewing instance details
 
 After an instance is active, you can view information about it, including its IP address, the IDs of the instance and its based-on (parent) image, and the date you launched the image. Also displayed are its status and any [tags][] that have been applied to the instance.
 
@@ -135,7 +135,7 @@ After an instance is active, you can view information about it, including its IP
 
 ___
 
-# Understanding instance metrics
+## Understanding instance metrics
 
 Each instance provides details, such as the CPU load, RAM, and used disk space.
 
@@ -146,6 +146,6 @@ When selecting a new instance to launch, the resource usage reflects how much re
 
 -   **Instance Metrics** allows you to drill down into the usage expended for the running image, including percentage used for RAM and used disk space, and CPU load. Not all images provide instance metrics.
 
-# Have a problem?
+## Have a problem?
 
 Report a problem with an instance, image, or volume **(NEED LINK)**.
