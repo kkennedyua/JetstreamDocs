@@ -93,13 +93,13 @@ You can create and manage your list of favorite images. Favorite images have a y
 
 To view your Favorites list, click **Images** and then click **Favorites**.
 
-### Adding a favorite instance to your list
+### Adding an instance to your Favorites list
 
 1.  Find the image to add by scrolling through the list, or search for the image by entering the image name, tag, or description in the search field.
 2.  Click ![] (https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIcon.gif?version=1&modificationDate=1406915420000) to the right of the image. 
 The image is added to your Favorites list with a yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000)
 
-### Removing a favorite image from your list
+### Removing an image from your Favorites list
 
 1. Click the yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000) to the right of the image.
 
@@ -135,7 +135,7 @@ After an instance is active, you can view information about it, including its IP
 
 ___
 
-## Understanding instance metrics
+## About instance metrics
 
 Each instance provides details, such as the CPU load, RAM, and used disk space.
 
