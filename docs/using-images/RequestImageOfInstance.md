@@ -1,4 +1,5 @@
 # Requesting an image of an instance
+===
 
 You may request an image of your running instance. This saves a complete copy of all changes and updates you made to the instance since launching it from its image, and also saves resources by launching an instance only when you need it.
 
