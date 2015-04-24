@@ -35,7 +35,7 @@ You can launch instances either from the Projects screen or from the Images scre
 	
     d.  Select the instance **size (NEED LINK)**.
   
-    The size you may choose depends on the amount of resources that will be used by the image and your resource availability. Start with the smallest size until you know for certain what size you need for that image.
+    The size you may choose depends on the amount of resources required by the image and your resource availability. Start with the smallest size until you know for certain what size you really need for that image. Also be aware that availability of provider resources may affect your ability to launch instances.
     
     e. Click **Launch Instance**.
     
@@ -64,8 +64,6 @@ You can launch instances either from the Projects screen or from the Images scre
     e.  Click **Launch Instance**. The instance is added to the project's Instances list and you can view its status as it is being launched. Once the status is Active you may begin using it.
     
        **Note:** It may take up to 30 minutes for the instance to be accessible. Click **REFRESH (NEED IMAGE)** to see if your instance status has changed to Active. You will receive an email with the instance ID and IP address once the instance is in active status.
-       
-To request that your instance be made into an image to reuse and share, or to add code to the instance before it is imaged that executes a script that runs after the image is booted, see **Request an Image of Your Instance (MOVE CONTENT TO THIS PAGE)**.
 
 ## Suspending, resuming, stopping, and deleting instances
 
@@ -73,7 +71,7 @@ You can suspend an active instance or resume a suspended instance, stop a suspen
 
 1.  Click an icon at the top right:
     - **SUSPEND ICON (NEED IMAGE)**: Available when the instance is active.  
-    - **RESUME ICON (NEED IMAGE)**: Available when the instance is suspended.  
+    - **RESUME ICON (NEED IMAGE):** Available when the instance is suspended.  
     - **STOP ICON (NEED IMAGE):** Available when the instance is active or suspended.  
     - **SHUTOFF ICON (NEED IMAGE):** Available when the instance is active, suspended, or shutoff. Status will display as _shutoff_.
 
@@ -93,28 +91,55 @@ You can create and manage your list of favorite images. Favorite images have a y
 
 To view your Favorites list, click **Images** and then click **Favorites**.
 
-### Adding an instance to your Favorites list
+### Adding and removing instances from your Favorites list
 
-1.  Find the image to add by scrolling through the list, or search for the image by entering the image name, tag, or description in the search field.
-2.  Click ![] (https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIcon.gif?version=1&modificationDate=1406915420000) to the right of the image. 
+1.  To add an image to your Favorites list:
+
+    a. Find the image to add by scrolling through the list, or search for the image by entering the image name, tag, or description in the search field.
+    
+    b. Click ![] (https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIcon.gif?version=1&modificationDate=1406915420000) to the right of the image. 
 The image is added to your Favorites list with a yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000)
+2. To remove an instance from the list, click the yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000) to the right of the image.
 
-### Removing an image from your Favorites list
+## Adding and removing tags
 
-1. Click the yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000) to the right of the image.
+A _tag_ is a label — a form of metadata — that can be added to a running instance for improved searchability. You can select from the list of existing tags added by the community, add new one to the list, remove a tag from an instance, and request deletion of the tag from the list.
 
-## Adding tags to running instances for improved searchability<a name="tag"></a>
+1.  Click**Projects** on the menu bar.
+2.  In the Resources list, click the instance to which you want to add a tag.
+3.  In the Instances list, click the name of the instance.
+4.  Click**Create/Edit tags**.
+5.  **To select an existing tag:**
 
-You can add tags to a running instance to help you find it more easily in search.
+    a.  Click in the field and enter the first few letters.
+    
+    b.  Click the tag in the list.
+    
+7.  **To create a new tag for the instance:**
 
-1.  Open the running instance.
-2.  On the Instance Details tab, click the **Edit Tags** icon.
-3.  In the text field, enter the tag to add and click **Add**:  
-    ![](https://pods.iplantcollaborative.org/wiki/download/attachments/8411419/Tags-1.png?version=1&modificationDate=1369083148000)
-4.  Repeat for each additional instance tag to add.
-5.  When done, click **Done**.
+    1.  Enter the new name.
+    
+    b.  Either press**Enter** or click**+ New tag**.
+    
+    c.  In the Create Tag form, enter the name and description for the tag and click **Create tag**. The new tag is added to the instance and the list of tags.
+    
+8. **To remove a tag from an instance**, click the name of the instance, and then click **Done editing**. The tag is still available in the list for others to choose.
 
-**NEED TO MOVE CONTENT ON REMOVING/EDITING TAGS**
+9. **To delete a tag from the list, or to add code to the instance before it is imaged that executes a script that runs after the image is booted:**
+
+    a.  Click **Feedback & Support** at the bottom of the screen.
+    
+    b.  In the Send Feedback form, enter the tag name to edit or delete, and the justification for the change.
+    
+    c.  Click **Send feedback**.
+
+9.  When done, click **Done editing**.
+
+10. **To view the master list of tags,** click **Images** on the menu bar, and then click **Tags** at the top of the screen. 
+    -   To view the tag's description, hover over the tag name. Note that not all tags have a description.
+    -   To find all images that use a specific tag in the image name or description, enter the tag name or description in the search field:  
+        ![](https://pods.iplantcollaborative.org/wiki/download/attachments/14090585/ImageTagList-ListView.png?version=1&modificationDate=1421453336000)
+    -   Click **Grid** to view the tag list in table view, or **List** to view in list view (default).
 
 ___
 
