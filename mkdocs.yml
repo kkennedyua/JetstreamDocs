@@ -2,8 +2,6 @@ site_name: JetStream Documentation
 
 pages:
 - ['index.md', 'Home']
-- ['using-images/UsingImagesLaunchingInstances.md', 'Using Images and Launching Instances', 'Using Images and Launching Instances']
-- ['using-volumes/UsingVolumes.md', 'Using Volumes', 'Using Volumes']
 - ['AboutAtmosphere.md', 'About Jetstream']
 - ['using-images/UsingInstancesAndImages.md', 'Using Instances', 'Using Images and Launching Instances']
 - ['using-images/RequestImageOfInstance.md', 'Using Instances', 'Requesting an Image of Your Instance']
