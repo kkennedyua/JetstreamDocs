@@ -1,4 +1,4 @@
-# Launching a new instance
+# Launching a new instance A
 
 Atmosphere provides a number of images from which you can launch an instance. You can search images by name, description, tag, or EMI number. Before you begin, you may want to learn more about[instances and instance size](https://pods.iplantcollaborative.org/wiki/display/atmman/Using+Instances "Using Instances").
 
