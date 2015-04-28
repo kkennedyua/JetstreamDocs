@@ -105,7 +105,7 @@ The image is added to your Favorites list with a yellow star:![](https://pods.ip
 ## Removing a favorite image from your list
 1. Click the yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000) to the right of the image.
 
-# Adding tags to running instances for improved searchability<a name="tag"></a>
+# Adding tags to running instances<a name="tag"></a>
 
 You can add tags to a running instance to help you find it more easily in search.
 
