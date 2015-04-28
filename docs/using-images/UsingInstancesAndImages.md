@@ -90,7 +90,7 @@ You can suspend an active instance or resume a suspended instance, stop a suspen
 
 You can create and manage your list of favorite images. Favorite images have a yellow star on the right side of the image.
 
-## Viewing your Favorites list
+### Viewing your Favorites list
 
 To view your Favorites list, click **Images**, and then click **Favorites**.
 
