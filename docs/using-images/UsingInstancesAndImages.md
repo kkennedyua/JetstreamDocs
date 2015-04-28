@@ -34,8 +34,6 @@ You can launch instances either from the Projects screen or from the Images scre
 	
     d.  Select the instance **size (NEED LINK)**.
   
-    The size you may choose depends on the amount of resources that will be used by the image and your resource availability. Start with the smallest size until you know for certain what size you need for that image.
-
     The size you may choose depends on the amount of resources required by the image and your resource availability. Start with the smallest size until you know for certain what size you really need for that image. Also be aware that availability of provider resources may affect your ability to launch instances.
     
     e. Click **Launch Instance**.
@@ -77,12 +75,11 @@ You can suspend an active instance or resume a suspended instance, stop a suspen
     - **STOP ICON (NEED IMAGE):** Available when the instance is active or suspended.  
     - **SHUTOFF ICON (NEED IMAGE):** Available when the instance is active, suspended, or shutoff. Status will display as _shutoff_.
 
-# Renaming an instance
+# Renaming instances
     - **RESUME ICON (NEED IMAGE):** Available when the instance is suspended.  
     - **STOP ICON (NEED IMAGE):** Available when the instance is active or suspended.  
     - **SHUTOFF ICON (NEED IMAGE):** Available when the instance is active, suspended, or shutoff. Status will display as _shutoff_.
 
-## Renaming instances
 1.  Click the instance name to open the instance.
 2.  Hover over the name until a pencil icon is displayed to the right of the name:  
     ![](https://pods.iplantcollaborative.org/wiki/download/attachments/14090410/RenameInstance.jpg?version=1&modificationDate=1425341463000)
@@ -133,8 +130,8 @@ To view your Favorites list, click **Images** and then click **Favorites**.
     a. Find the image to add by scrolling through the list, or search for the image by entering the image name, tag, or description in the search field.
     
     b. Click ![] (https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIcon.gif?version=1&modificationDate=1406915420000) to the right of the image. 
-The image is added to your Favorites list with a yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000)
-2. To remove an instance from the list, click the yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000) to the right of the image.
+The image is added to your Favorites list with a yellow star.
+2. To remove an instance from the list, click the yellow star to the right of the image.
 
 ## Adding and removing tags
 
