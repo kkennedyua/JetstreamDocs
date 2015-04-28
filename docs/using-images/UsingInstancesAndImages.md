@@ -14,7 +14,7 @@ You can **attach and detach one or more volumes (NEED LINK)** in the same projec
 
 ___
 
-# Launching instances
+## Launching instances
 
 You can launch instances either from the Projects screen or from the Images screen.
 
@@ -75,7 +75,7 @@ You can suspend an active instance or resume a suspended instance, stop a suspen
     - **STOP ICON (NEED IMAGE):** Available when the instance is active or suspended.  
     - **SHUTOFF ICON (NEED IMAGE):** Available when the instance is active, suspended, or shutoff. Status will display as _shutoff_.
 
-# Renaming instances
+## Renaming instances
     - **RESUME ICON (NEED IMAGE):** Available when the instance is suspended.  
     - **STOP ICON (NEED IMAGE):** Available when the instance is active or suspended.  
     - **SHUTOFF ICON (NEED IMAGE):** Available when the instance is active, suspended, or shutoff. Status will display as _shutoff_.
@@ -86,7 +86,7 @@ You can suspend an active instance or resume a suspended instance, stop a suspen
 3.  Click the pencil icon.
 4.  Edit the name and press **Return**.
 
-# Viewing, adding, and removing Favorite images
+## Viewing, adding, and removing Favorite images
 
 You can create and manage your list of favorite images. Favorite images have a yellow star on the right side of the image.
 
@@ -94,15 +94,15 @@ You can create and manage your list of favorite images. Favorite images have a y
 
 To view your Favorites list, click **Images**, and then click **Favorites**.
 
-## Adding a favorite instance to your list
+### Adding a favorite instance to your list
 1.  Find the image to add by scrolling through the list, or search for the image by entering the image name, tag, or description in the search field.
 2.  Click ![] (https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIcon.gif?version=1&modificationDate=1406915420000) to the right of the image. 
-The image is added to your Favorites list with a yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000)
+The image is added to your Favorites list with a yellow star.
 
-## Removing a favorite image from your list
-1. Click the yellow star:![](https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIconSelected.gif?version=1&modificationDate=1406915420000) to the right of the image.
+### Removing a favorite image from your list
+1. Click the yellow star to the right of the image.
 
-# Adding tags to running instances<a name="tag"></a>
+## Adding tags to running instances<a name="tag"></a>
 
 You can add tags to a running instance to help you find it more easily in search.
 
@@ -132,6 +132,7 @@ To view your Favorites list, click **Images** and then click **Favorites**.
     b. Click ![] (https://pods.iplantcollaborative.org/wiki/download/attachments/12225026/FavoriteImages-StarIcon.gif?version=1&modificationDate=1406915420000) to the right of the image. 
 The image is added to your Favorites list with a yellow star.
 2. To remove an instance from the list, click the yellow star to the right of the image.
+
 
 ## Adding and removing tags
 
