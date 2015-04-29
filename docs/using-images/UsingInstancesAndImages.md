@@ -12,8 +12,6 @@ You also can view and access your Atmosphere instances using **Web Shell or Remo
 
 You can **attach and detach one or more volumes (NEED LINK)** in the same project to the same instance, and view metrics about how your resources (memory, disk space, CPU, and AU usage) are being used on this instance.
 
-___
-
 ## Launching instances
 
 You can launch instances either from the Projects screen or from the Images screen.
@@ -113,7 +111,6 @@ You can add tags to a running instance to help you find it more easily in search
 4.  Repeat for each additional instance tag to add.
 5.  When done, click **Done**.
 
-___
 
 ## Using the Favorites list
 
